@@ -1,10 +1,7 @@
-section{
-  background-color: #1abc9c;
-}
-
 div.my-jumbo {
   background-color: #1abc9c;
   height: 30rem;
+  color: white;
 }
 
 div.my-card {
