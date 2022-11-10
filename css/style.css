@@ -1,0 +1,15 @@
+div.my-jumbo {
+  background-color: aquamarine;
+  height: 30rem;
+}
+
+div.my-card {
+  background-color: aquamarine;
+  height: 20rem;
+  /* width: 500px; */
+}
+
+div.my-about {
+  background-color: aquamarine;
+  height: 50rem;
+}
