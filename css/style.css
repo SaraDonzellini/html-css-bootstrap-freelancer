@@ -4,10 +4,34 @@ div.my-jumbo {
   color: white;
 }
 
-div.my-card {
+div.my-card-1 {
   background-color: #ba4b63;
   height: 20rem;
-  /* width: 500px; */
+}
+
+div.my-card-2 {
+  background-color: #1ea4b6;
+  height: 20rem;
+}
+
+div.my-card-3 {
+  background-color: #140f0f;
+  height: 20rem;
+}
+
+div.my-card-4 {
+  background-color: #1c83c1;
+  height: 20rem;
+}
+
+div.my-card-5 {
+  background-color: #0e38b5;
+  height: 20rem;
+}
+
+div.my-card-6 {
+  background-color: #ccb2a3;
+  height: 20rem;
 }
 
 div.my-about {
