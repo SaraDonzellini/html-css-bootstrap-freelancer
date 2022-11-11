@@ -99,6 +99,8 @@ div.footer-bottom-wrapper {
 }
 
 .fa-rounded i {
+  height: 50px;
+  width: 50px;
   padding: 1rem;
   border: 1px solid white;
   border-radius: 50%;
