@@ -104,7 +104,6 @@ div.footer-bottom-wrapper {
 padding: 1rem;
 border: 1px solid white;
 border-radius: 50%;
-object-fit: contain;
 }
 
 .my-footer p{
@@ -119,8 +118,4 @@ input,
 textarea {
   border: none;
   border-bottom: 1px solid lightgrey;
-}
-
-a {
-  
 }
