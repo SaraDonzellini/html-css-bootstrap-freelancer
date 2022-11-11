@@ -53,7 +53,6 @@ div.my-card-6 {
 div.my-card-1 {
   background-color: #ba4b63;
   background-image: url(../img/cabin.png);
-
 }
 
 div.my-card-2 {
@@ -99,13 +98,13 @@ div.footer-bottom-wrapper {
   color: white;
 }
 
-.fa-rounded i{
-padding: 1rem;
-border: 1px solid white;
-border-radius: 50%;
+.fa-rounded i {
+  padding: 1rem;
+  border: 1px solid white;
+  border-radius: 50%;
 }
 
-.my-footer p{
+.my-footer p {
   font-size: 1.1rem;
 }
 
