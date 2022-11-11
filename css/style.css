@@ -38,11 +38,6 @@ div.my-jumbo p {
   font-size: 1.2rem;
 }
 
-p.my-star {
-  font-size: 2rem;
-}
-
-
 div.my-card-1,
 div.my-card-2,
 div.my-card-3,
@@ -129,7 +124,7 @@ div.my-bar {
   width: 5vw;
   background-color: white;
   border-radius: 5px;
-  margin: 2rem;
+  margin: 0 2rem;
 }
 
 div.my-bar2 {
@@ -137,5 +132,9 @@ div.my-bar2 {
   width: 5vw;
   background-color: rgb(0, 0, 0);
   border-radius: 5px;
-  margin: 2rem;
+  margin: 0 2rem;
+}
+
+div.my-star {
+  font-size: 2rem;
 }
