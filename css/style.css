@@ -119,3 +119,19 @@ textarea {
   border: none;
   border-bottom: 1px solid lightgrey;
 }
+
+div.my-bar {
+  height: 5px;
+  width: 5vw;
+  background-color: white;
+  border-radius: 5px;
+  margin: 2rem;
+}
+
+div.my-bar2 {
+  height: 5px;
+  width: 5vw;
+  background-color: rgb(0, 0, 0);
+  border-radius: 5px;
+  margin: 2rem;
+}
